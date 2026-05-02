@@ -1,4 +1,4 @@
-# آموزش راه‌اندازی پروژه (Cloudflare Worker + Google Apps Script)
+# آموزش راه‌اندازی پروژه (Cloudflare Worker + Google Apps Script) نسخه به روز شده با رفع برخی باگ ها و مشکل باز نشدن برخی ویدیوهای یوتیوب
 | [English](README.md) | [Persian](README_FA.md) |
 | :---: | :---: |
 

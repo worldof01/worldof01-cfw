@@ -1,4 +1,4 @@
-# Fixed version of MHR-CFW - MasterHttpRelay + Cloudflare Worker
+# Fixed version of MHR-CFW - MasterHttpRelay + Cloudflare Worker - solve youtube problem : Video unavailable
 
 [![GitHub](https://img.shields.io/badge/GitHub-MasterHttpRelayVPN-blue?logo=github)](https://github.com/denuitt1/mhr-cfw)
 
